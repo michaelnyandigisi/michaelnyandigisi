@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelnyandigisi
-- 👀 I’m interested in ... Secuirty
+- 👀 I’m interested in ... Secuirty and Development
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Python projects
 - 📫 How to reach me ... My DM's are open
