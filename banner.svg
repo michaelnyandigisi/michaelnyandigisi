@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Michael Nyandigisi, Site Reliability Engineer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1633"/><stop offset="1" stop-color="#1f3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" rx="14" fill="url(#g)"/>
+  <g stroke="#9db4ff" stroke-opacity=".25" stroke-width="1" fill="#9db4ff" fill-opacity=".55">
+    <line x1="60" y1="40" x2="150" y2="90"/><line x1="150" y1="90" x2="120" y2="170"/><line x1="150" y1="90" x2="260" y2="60"/>
+    <line x1="780" y1="50" x2="870" y2="110"/><line x1="870" y1="110" x2="940" y2="60"/><line x1="870" y1="110" x2="820" y2="180"/>
+    <circle cx="60" cy="40" r="3"/><circle cx="150" cy="90" r="4"/><circle cx="120" cy="170" r="3"/><circle cx="260" cy="60" r="3"/>
+    <circle cx="780" cy="50" r="3"/><circle cx="870" cy="110" r="4"/><circle cx="940" cy="60" r="3"/><circle cx="820" cy="180" r="3"/>
+  </g>
+  <text x="500" y="100" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="46" font-weight="700" fill="#ffffff">Michael Nyandigisi</text>
+  <text x="500" y="146" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="20" fill="#c9d6ff">Operations · Reliability · Cloud &amp; Containers</text>
+  <text x="500" y="182" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="15" fill="#7f9bea">&gt; kubectl get engineer --status=learning</text>
+</svg>
