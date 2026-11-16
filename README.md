@@ -76,7 +76,7 @@ More infrastructure and automation projects are in development.
 |---|---|---|---|
 | ☁️ | Microsoft Azure Developer Associate (AZ-204) | Microsoft | In progress |
 | ☁️ | Microsoft Azure Fundamentals (AZ-900) | Microsoft | In progress |
-| 🛡️ | CompTIA Security+ | CompTIA | In progress |
+| <img src="CT-s+.png" width="24">  | CompTIA Security+ | CompTIA | In progress |
 | 🛠️ | ITIL 4 Foundation | Axelos | In progress |
 | <img src="google-cc.png" width="24"> | Google Cybersecurity Certificate | Google | 2026 |
 | <img src="cisco-eh-badge.png" width="24"> | Cisco Ethical Hacker | Cisco Networking Academy | 2024 |
