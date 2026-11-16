@@ -1,12 +1,12 @@
-\<p align="center"\>
-  \<img src="banner.svg" alt="Michael Nyandigisi, Site Reliability Engineer" width="100%"\>
-\</p\>
+<p align="center">
+  <img src="banner.svg" alt="Michael Nyandigisi, Site Reliability Engineer" width="100%">
+</p>
 
-\<p align="center"\>
-  \<a href="https://michaelnyandigisi.github.io"\>\<img src="https://img.shields.io/badge/Portfolio-michaelnyandigisi.github.io-0a1633?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"\>\</a\>
-  \<a href="https://www.linkedin.com/in/michaelnyandigisi/"\>\<img src="https://img.shields.io/badge/LinkedIn-michaelnyandigisi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"\>\</a\>
-  \<img src="https://img.shields.io/badge/Open%20to-SRE%20roles-22c55e?style=for-the-badge" alt="Open to SRE roles"\>
-\</p\>
+<p align="center">
+  <a href="https://michaelnyandigisi.github.io"><img src="https://img.shields.io/badge/Portfolio-michaelnyandigisi.github.io-0a1633?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/michaelnyandigisi/"><img src="https://img.shields.io/badge/LinkedIn-michaelnyandigisi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Open%20to-SRE%20roles-22c55e?style=for-the-badge" alt="Open to SRE roles">
+</p>
 
 ## 👋 About me
 
@@ -18,7 +18,7 @@ location:  Nairobi, Kenya 🇰🇪
 role:      Senior Operations Engineer (SRE-focused)
 focus:     [monitoring, incident response, automation, cloud & containers]
 learning:  [Kubernetes, Azure (AZ-204), Python]
-open_to:   SRE & platform engineering roles
+open_to:   SRE, platform & operations engineering roles
 off_duty:  Arsenal fan ⚽
 ```
 
@@ -34,7 +34,7 @@ off_duty:  Arsenal fan ⚽
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| ⏱️ **Network Telemetry Pipeline** | Automated network performance monitoring platform deployed on Azure. Collects speed, latency and jitter metrics every 10 minutes, stores results in PostgreSQL, visualizes them in Grafana, and automates builds and deployment through Jenkins CI/CD. | Python · Azure · Docker · Jenkins · PostgreSQL · Grafana · Linux | [Code](https://github.com/michaelnyandigisi/net-telemetry-pipeline) |
+| 📶 **Network Telemetry Pipeline** | Automated network performance monitoring platform deployed on Azure. Collects speed, latency and jitter metrics every 10 minutes, stores results in PostgreSQL, visualizes them in Grafana, and automates builds and deployment through Jenkins CI/CD. | Python · Azure · Docker · Jenkins · PostgreSQL · Grafana · Linux | [Code](https://github.com/michaelnyandigisi/net-telemetry-pipeline) |
 | 🌐 **Portfolio** | My personal portfolio site | HTML · CSS · JS | [Live](https://michaelnyandigisi.github.io/) · [Code](https://github.com/michaelnyandigisi/michaelnyandigisi.github.io) |
 | 🤖 **ai-ats-scanner** | AI-powered ATS scanner and resume matcher | Python | [Code](https://github.com/michaelnyandigisi/ai-ats-scanner) |
 | 🏧 **simple_atm** | Console ATM program | Python | [Code](https://github.com/michaelnyandigisi/simple_atm) |
@@ -56,7 +56,7 @@ More infrastructure and automation projects are in development.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![BMC Helix ITSM](https://img.shields.io/badge/BMC%20Helix-FE5000?style=flat-square)
+![BMC Helix ITSM](https://img.shields.io/badge/BMC%20Helix%20ITSM-FE5000?style=flat-square)
 
 **Data**
 
@@ -78,9 +78,9 @@ More infrastructure and automation projects are in development.
 | ☁️ | Microsoft Azure Fundamentals (AZ-900) | Microsoft | In progress |
 | 🛡️ | CompTIA Security+ | CompTIA | In progress |
 | 🛠️ | ITIL 4 Foundation | Axelos | In progress |
-| 🌐 | Google Cybersecurity Certificate | Google | 2026 |
-| ⚔️ | Cisco Ethical Hacker | Cisco Networking Academy | 2024 |
-| 🔍 | Cisco Cyber Threat Management | Cisco Networking Academy | 2024 |
+| <img src="google-cc.png" width="24"> | Google Cybersecurity Certificate | Google | 2026 |
+| <img src="cisco-eh-badge.png" width="24"> | Cisco Ethical Hacker | Cisco Networking Academy | 2024 |
+| <img src="cisco-ctm-badge.png" width="24"> | Cisco Cyber Threat Management | Cisco Networking Academy | 2024 |
 
 **Education:** BSc Information Systems & Technology (Forensic IT & Cybersecurity), USIU-Africa
 
